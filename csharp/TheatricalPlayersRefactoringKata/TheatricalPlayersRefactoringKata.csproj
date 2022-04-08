@@ -6,4 +6,10 @@
     <LangVersion>10</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="templates\Statement.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
